@@ -6,7 +6,7 @@ It is designed to be **machine-learning ready**, supporting tasks such as explor
 
 The dataset combines **raw meteorological variables**, **geographic metadata**, and **engineered temporal features**, making it suitable for both beginners and advanced practitioners.
 
-**Kaggle:** (https://www.kaggle.com/datasets/moustafamohamed01/worldwide-weather-2025](https://www.kaggle.com/datasets/moustafamohamed01/worldwide-weather-2025)
+**Kaggle:** [https://www.kaggle.com/datasets/moustafamohamed01/worldwide-weather-2025](https://www.kaggle.com/datasets/moustafamohamed01/worldwide-weather-2025)
 
 ---
 
