@@ -17,6 +17,10 @@ my-datasets/
 │   ├── worldwide_weather_2025.csv
 │   └── README.md
 │
+├── worldwide_weather_2025/
+│   ├── worldwide_weather_2026.csv
+│   └── README.md
+│
 └── README.md
 
 ```
@@ -27,8 +31,8 @@ my-datasets/
 
 | Dataset | Description | Link |
 |---------|-------------|------|
-| Worldwide Weather 2025 | Daily weather data (temperature, precipitation, weather codes) for major cities worldwide in 2025. | [Folder](./worldwide_weather_2025) |
-| [Future Dataset Placeholder] | Brief description of future datasets. | [Folder](./future_dataset) |
+| Worldwide Weather 2025 | Daily weather data (temperature, precipitation, weather codes) for major cities worldwide in 2025. | [Kaggle](https://www.kaggle.com/datasets/moustafamohamed01/worldwide-weather-2025) |
+| Worldwide Weather 2026 | Daily weather data (temperature, precipitation, weather codes) for major cities worldwide in 2026. | [Kaggle](https://www.kaggle.com/datasets/moustafamohamed01/worldwide-weather-2026-daily-city-weather-data) |
 
 ---
 
